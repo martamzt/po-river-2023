@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Pagina di Approfondimento</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+
+		<div class="container">
+			<a href="index.html">
+				<div class="close_pagina">
+					<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect x="9.54688" y="7.42462" width="24" height="2.25" rx="1.125" transform="rotate(45 9.54688 7.42462)" fill="black"/>
+						<rect x="7.95508" y="24.9255" width="24" height="2.25" rx="1.125" transform="rotate(-45 7.95508 24.9255)" fill="black"/>
+					</svg>
+				</div>
+			</a>
+			<h1>Pian del Re</h1>
+			<p>Lorem ipsum dolor sit amet...</p>
+		</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+		<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+		<script src="js/scripts.js"></script>
+	</body>
+</html>
